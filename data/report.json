@@ -1,1 +1,9 @@
-[]
+{
+  "siteHealth": 100,
+  "totalIssues": 4,
+  "indexing": {
+    "noindexFound": 0,
+    "mismatches": 0,
+    "verified": 0
+  }
+}
