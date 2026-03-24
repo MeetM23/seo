@@ -2,7 +2,7 @@
   {
     "url": "https://www.tenupsoft.com/",
     "status": 200,
-    "wordCount": 3767,
+    "wordCount": 3772,
     "internalLinks": 187,
     "externalLinks": 7,
     "issues": {
@@ -37,7 +37,7 @@
   {
     "url": "https://www.tenupsoft.com/why-tenup.html",
     "status": 200,
-    "wordCount": 968,
+    "wordCount": 974,
     "internalLinks": 82,
     "externalLinks": 6,
     "issues": {
@@ -46,6 +46,60 @@
     },
     "indexingValidation": {
       "url": "https://www.tenupsoft.com/why-tenup.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": true
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/ai-assisted-software-development.html",
+    "status": 200,
+    "wordCount": 2126,
+    "internalLinks": 79,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/ai-assisted-software-development.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": true
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/enterprise-ai-development-services.html",
+    "status": 200,
+    "wordCount": 2852,
+    "internalLinks": 89,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/enterprise-ai-development-services.html",
       "issue": "None",
       "severity": "Low",
       "confidence_score": "50%",
@@ -224,6 +278,330 @@
     }
   },
   {
+    "url": "https://www.tenupsoft.com/how-we-do.html",
+    "status": 200,
+    "wordCount": 1075,
+    "internalLinks": 76,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/how-we-do.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": true
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/case-studies.html",
+    "status": 200,
+    "wordCount": 1521,
+    "internalLinks": 106,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/case-studies.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": true
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/blog.html",
+    "status": 200,
+    "wordCount": 4729,
+    "internalLinks": 186,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/blog.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": true
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/white-paper.html",
+    "status": 200,
+    "wordCount": 314,
+    "internalLinks": 70,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/white-paper.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": true
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/technology-talks.html",
+    "status": 200,
+    "wordCount": 460,
+    "internalLinks": 73,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/technology-talks.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": true
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/about-us.html",
+    "status": 200,
+    "wordCount": 537,
+    "internalLinks": 78,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/about-us.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": true
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/engagement-model.html",
+    "status": 200,
+    "wordCount": 1079,
+    "internalLinks": 84,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/engagement-model.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": true
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/leadership.html",
+    "status": 200,
+    "wordCount": 647,
+    "internalLinks": 78,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/leadership.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": true
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/our-team.html",
+    "status": 200,
+    "wordCount": 1223,
+    "internalLinks": 76,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/our-team.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": true
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/life-tenup.html",
+    "status": 200,
+    "wordCount": 2074,
+    "internalLinks": 71,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/life-tenup.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": true
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/careers.html",
+    "status": 200,
+    "wordCount": 1281,
+    "internalLinks": 73,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/careers.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": true
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/contact-us.html",
+    "status": 200,
+    "wordCount": 1003,
+    "internalLinks": 80,
+    "externalLinks": 53,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/contact-us.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": true
+    }
+  },
+  {
     "url": "https://www.tenupsoft.com/blockchain-engineering-new.html",
     "status": 200,
     "wordCount": 2152,
@@ -251,360 +629,9 @@
     }
   },
   {
-    "url": "https://www.tenupsoft.com/enterprise-ai-development-services.html",
-    "status": 200,
-    "wordCount": 2846,
-    "internalLinks": 87,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/enterprise-ai-development-services.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/how-we-do.html",
-    "status": 200,
-    "wordCount": 1069,
-    "internalLinks": 76,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/how-we-do.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/case-studies.html",
-    "status": 200,
-    "wordCount": 1515,
-    "internalLinks": 106,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/case-studies.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog.html",
-    "status": 200,
-    "wordCount": 4723,
-    "internalLinks": 186,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/white-paper.html",
-    "status": 200,
-    "wordCount": 308,
-    "internalLinks": 70,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/white-paper.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/technology-talks.html",
-    "status": 200,
-    "wordCount": 454,
-    "internalLinks": 73,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/technology-talks.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/about-us.html",
-    "status": 200,
-    "wordCount": 531,
-    "internalLinks": 78,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/about-us.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/engagement-model.html",
-    "status": 200,
-    "wordCount": 1073,
-    "internalLinks": 84,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/engagement-model.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/leadership.html",
-    "status": 200,
-    "wordCount": 641,
-    "internalLinks": 78,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/leadership.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/our-team.html",
-    "status": 200,
-    "wordCount": 1217,
-    "internalLinks": 76,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/our-team.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/life-tenup.html",
-    "status": 200,
-    "wordCount": 2068,
-    "internalLinks": 71,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/life-tenup.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/careers.html",
-    "status": 200,
-    "wordCount": 1272,
-    "internalLinks": 71,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/careers.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/contact-us.html",
-    "status": 200,
-    "wordCount": 997,
-    "internalLinks": 80,
-    "externalLinks": 53,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/contact-us.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
     "url": "https://www.tenupsoft.com/case-studies/stripe-app-for-sales-tax-registration-reporting-automation.html",
     "status": 200,
-    "wordCount": 1184,
+    "wordCount": 1190,
     "internalLinks": 71,
     "externalLinks": 6,
     "issues": {
@@ -631,7 +658,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/ai-logistics-software-for-global-moving-crews-mobile-app.html",
     "status": 200,
-    "wordCount": 1321,
+    "wordCount": 1327,
     "internalLinks": 71,
     "externalLinks": 6,
     "issues": {
@@ -658,7 +685,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/enhancing-ai-purchase-order-processing-software.html",
     "status": 200,
-    "wordCount": 1450,
+    "wordCount": 1456,
     "internalLinks": 75,
     "externalLinks": 6,
     "issues": {
@@ -685,7 +712,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/ai-in-fintech-personalized-retirement-portfolio-management.html",
     "status": 200,
-    "wordCount": 1356,
+    "wordCount": 1362,
     "internalLinks": 71,
     "externalLinks": 6,
     "issues": {
@@ -712,7 +739,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/ai-automotive-photo-editing-realistic-shadows-window-effects.html",
     "status": 200,
-    "wordCount": 1570,
+    "wordCount": 1576,
     "internalLinks": 71,
     "externalLinks": 6,
     "issues": {
@@ -739,7 +766,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/cloud-software-development-guide-for-startups.html",
     "status": 200,
-    "wordCount": 4183,
+    "wordCount": 4189,
     "internalLinks": 90,
     "externalLinks": 9,
     "issues": {
@@ -766,7 +793,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/cloud-development-key-to-future-of-digital-payments.html",
     "status": 200,
-    "wordCount": 3373,
+    "wordCount": 3379,
     "internalLinks": 84,
     "externalLinks": 15,
     "issues": {
@@ -793,7 +820,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/cloud-native-application-development-challenges-solutions.html",
     "status": 200,
-    "wordCount": 2472,
+    "wordCount": 2478,
     "internalLinks": 87,
     "externalLinks": 13,
     "issues": {
@@ -820,7 +847,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/ai-image-recognition-image-segmentation-roi-across-industries.html",
     "status": 200,
-    "wordCount": 3327,
+    "wordCount": 3333,
     "internalLinks": 85,
     "externalLinks": 9,
     "issues": {
@@ -847,7 +874,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/image-segmentation-in-logistics-use-cases-roi-strategy.html",
     "status": 200,
-    "wordCount": 3879,
+    "wordCount": 3885,
     "internalLinks": 83,
     "externalLinks": 9,
     "issues": {
@@ -955,7 +982,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/building-a-saas-application-using-the-twelve-factorapp-methodology.html",
     "status": 200,
-    "wordCount": 1647,
+    "wordCount": 1653,
     "internalLinks": 71,
     "externalLinks": 6,
     "issues": {
@@ -982,7 +1009,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/enterprise-marketplace-study.html",
     "status": 200,
-    "wordCount": 1317,
+    "wordCount": 1323,
     "internalLinks": 71,
     "externalLinks": 6,
     "issues": {
@@ -1009,7 +1036,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/building-a-growth-oriented-portal.html",
     "status": 200,
-    "wordCount": 1362,
+    "wordCount": 1368,
     "internalLinks": 71,
     "externalLinks": 6,
     "issues": {
@@ -1036,7 +1063,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/streamlining-and-optimizing-real-estate-agent-booking-and-workflows.html",
     "status": 200,
-    "wordCount": 1581,
+    "wordCount": 1587,
     "internalLinks": 70,
     "externalLinks": 6,
     "issues": {
@@ -1063,7 +1090,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/unlocking-growth-with-the-aws.html",
     "status": 200,
-    "wordCount": 1885,
+    "wordCount": 1891,
     "internalLinks": 71,
     "externalLinks": 6,
     "issues": {
@@ -1088,9 +1115,495 @@
     }
   },
   {
-    "url": "https://www.tenupsoft.com/blog/effective-communication-key-to-streamlined-enterprise-application-lifecycle-management.html",
+    "url": "https://www.tenupsoft.com/case-studies/ai-workflow-automation-for-continuous-model-improvement.html",
+    "status": 200,
+    "wordCount": 1337,
+    "internalLinks": 73,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/case-studies/ai-workflow-automation-for-continuous-model-improvement.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": false
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/case-studies/enhancing-warehouse-management-for-leading-private-equity-firm-in-uk.html",
     "status": 200,
     "wordCount": 1270,
+    "internalLinks": 71,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/case-studies/enhancing-warehouse-management-for-leading-private-equity-firm-in-uk.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": false
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/case-studies/building-healthcare-io-t-apps-for-remote-healthcare-wellness.html",
+    "status": 200,
+    "wordCount": 1337,
+    "internalLinks": 71,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/case-studies/building-healthcare-io-t-apps-for-remote-healthcare-wellness.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": false
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/case-studies/digital-transformation-of-leading-port-management-firm.html",
+    "status": 200,
+    "wordCount": 1137,
+    "internalLinks": 71,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/case-studies/digital-transformation-of-leading-port-management-firm.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": false
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/ai-agent-development-services.html",
+    "status": 200,
+    "wordCount": 2946,
+    "internalLinks": 83,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/ai-agent-development-services.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": false
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/generative-ai-development-services.html",
+    "status": 200,
+    "wordCount": 3167,
+    "internalLinks": 86,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/generative-ai-development-services.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": false
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/machine-learning-development-services.html",
+    "status": 200,
+    "wordCount": 2900,
+    "internalLinks": 85,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/machine-learning-development-services.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": false
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/computer-vision-solutions.html",
+    "status": 200,
+    "wordCount": 2885,
+    "internalLinks": 86,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/computer-vision-solutions.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": false
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/case-studies/background-removal-and-replacement-using-vision-ai-and-vision-engineering.html",
+    "status": 200,
+    "wordCount": 1251,
+    "internalLinks": 71,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/case-studies/background-removal-and-replacement-using-vision-ai-and-vision-engineering.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": false
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/case-studies/ai-purchase-order-automation-software-for-streamlined-processing-and-enhanced-efficiency.html",
+    "status": 200,
+    "wordCount": 1088,
+    "internalLinks": 71,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/case-studies/ai-purchase-order-automation-software-for-streamlined-processing-and-enhanced-efficiency.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": false
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/case-studies/revolutionizing-casino-experience-with-AI-powered-real-time-betting.html",
+    "status": 200,
+    "wordCount": 1221,
+    "internalLinks": 72,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/case-studies/revolutionizing-casino-experience-with-AI-powered-real-time-betting.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": true
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/case-studies/ai-in-recruitment-optimizing-candidate-search-with-rag-chatbot.html",
+    "status": 200,
+    "wordCount": 1118,
+    "internalLinks": 71,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/case-studies/ai-in-recruitment-optimizing-candidate-search-with-rag-chatbot.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": false
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/case-studies/ai-powered-content-generation-and-item-condition-reporting-for-premium-moves.html",
+    "status": 200,
+    "wordCount": 1179,
+    "internalLinks": 71,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/case-studies/ai-powered-content-generation-and-item-condition-reporting-for-premium-moves.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": false
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/case-studies/automating-bank-check-verification-with-vision-ai-and-generative-ai.html",
+    "status": 200,
+    "wordCount": 1378,
+    "internalLinks": 71,
+    "externalLinks": 6,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/case-studies/automating-bank-check-verification-with-vision-ai-and-generative-ai.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": false
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/blog/guide-on-custom-ai-software-development.html",
+    "status": 200,
+    "wordCount": 2650,
+    "internalLinks": 92,
+    "externalLinks": 10,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/blog/guide-on-custom-ai-software-development.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": true
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/blog/agentic-workflows-in-ai-guide-for-enterprises.html",
+    "status": 200,
+    "wordCount": 3528,
+    "internalLinks": 86,
+    "externalLinks": 10,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/blog/agentic-workflows-in-ai-guide-for-enterprises.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": false
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/blog/how-ai-consulting-helps-small-businesses-and-startups.html",
+    "status": 200,
+    "wordCount": 2823,
+    "internalLinks": 87,
+    "externalLinks": 9,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/blog/how-ai-consulting-helps-small-businesses-and-startups.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": true
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/blog/mlops-ML-experiment-tracking-essential-for-building-robust-ML-solutions.html",
+    "status": 200,
+    "wordCount": 1912,
+    "internalLinks": 76,
+    "externalLinks": 9,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/blog/mlops-ML-experiment-tracking-essential-for-building-robust-ML-solutions.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": false
+    }
+  },
+  {
+    "url": "https://www.tenupsoft.com/blog/effective-communication-key-to-streamlined-enterprise-application-lifecycle-management.html",
+    "status": 200,
+    "wordCount": 1276,
     "internalLinks": 71,
     "externalLinks": 9,
     "issues": {
@@ -1117,7 +1630,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/choosing-the-right-engagement-model-for-your-offshore-or-outsourcing-development-partnership.html",
     "status": 200,
-    "wordCount": 2903,
+    "wordCount": 2905,
     "internalLinks": 74,
     "externalLinks": 9,
     "issues": {
@@ -1144,7 +1657,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/strategies-to-choose-offshore-development-partners-part-2.html",
     "status": 200,
-    "wordCount": 1277,
+    "wordCount": 1279,
     "internalLinks": 75,
     "externalLinks": 9,
     "issues": {
@@ -1171,7 +1684,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/strategies-to-choose-offshore-development-partners.html",
     "status": 200,
-    "wordCount": 2132,
+    "wordCount": 2138,
     "internalLinks": 71,
     "externalLinks": 9,
     "issues": {
@@ -1198,7 +1711,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/the-importance-of-application-lifecycle-management.html",
     "status": 200,
-    "wordCount": 3007,
+    "wordCount": 3013,
     "internalLinks": 83,
     "externalLinks": 11,
     "issues": {
@@ -1223,90 +1736,9 @@
     }
   },
   {
-    "url": "https://www.tenupsoft.com/case-studies/revolutionizing-casino-experience-with-AI-powered-real-time-betting.html",
-    "status": 200,
-    "wordCount": 1215,
-    "internalLinks": 72,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/case-studies/revolutionizing-casino-experience-with-AI-powered-real-time-betting.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/case-studies/enhancing-warehouse-management-for-leading-private-equity-firm-in-uk.html",
-    "status": 200,
-    "wordCount": 1264,
-    "internalLinks": 71,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/case-studies/enhancing-warehouse-management-for-leading-private-equity-firm-in-uk.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/case-studies/digital-transformation-of-leading-port-management-firm.html",
-    "status": 200,
-    "wordCount": 1131,
-    "internalLinks": 71,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/case-studies/digital-transformation-of-leading-port-management-firm.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
     "url": "https://www.tenupsoft.com/blog/how-legacy-migration-reinforces-security-compliance-and-market-positioning.html",
     "status": 200,
-    "wordCount": 1611,
+    "wordCount": 1617,
     "internalLinks": 72,
     "externalLinks": 10,
     "issues": {
@@ -1333,7 +1765,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/legacy-modernization-and-migration-best-practices-and-common-pitfalls.html",
     "status": 200,
-    "wordCount": 3162,
+    "wordCount": 3164,
     "internalLinks": 83,
     "externalLinks": 9,
     "issues": {
@@ -1360,8 +1792,8 @@
   {
     "url": "https://www.tenupsoft.com/blog/how-passwordless-authentication-is-reshaping-the-landscape.html",
     "status": 200,
-    "wordCount": 1436,
-    "internalLinks": 71,
+    "wordCount": 1448,
+    "internalLinks": 75,
     "externalLinks": 9,
     "issues": {
       "errors": [],
@@ -1387,7 +1819,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/application-architecture-models-and-their-evolution.html",
     "status": 200,
-    "wordCount": 1755,
+    "wordCount": 1761,
     "internalLinks": 72,
     "externalLinks": 9,
     "issues": {
@@ -1412,36 +1844,9 @@
     }
   },
   {
-    "url": "https://www.tenupsoft.com/case-studies/building-healthcare-io-t-apps-for-remote-healthcare-wellness.html",
-    "status": 200,
-    "wordCount": 1331,
-    "internalLinks": 71,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/case-studies/building-healthcare-io-t-apps-for-remote-healthcare-wellness.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
     "url": "https://www.tenupsoft.com/case-studies/redefining-fishing-with-android-and-ios-apps.html",
     "status": 200,
-    "wordCount": 1329,
+    "wordCount": 1335,
     "internalLinks": 71,
     "externalLinks": 6,
     "issues": {
@@ -1468,7 +1873,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/the-role-of-prototyping-in-product-engineering.html",
     "status": 200,
-    "wordCount": 1522,
+    "wordCount": 1528,
     "internalLinks": 71,
     "externalLinks": 9,
     "issues": {
@@ -1495,8 +1900,8 @@
   {
     "url": "https://www.tenupsoft.com/blog/enhancing-your-saas-product-by-integrating-with-complementary-saas-systems.html",
     "status": 200,
-    "wordCount": 1514,
-    "internalLinks": 73,
+    "wordCount": 1526,
+    "internalLinks": 77,
     "externalLinks": 9,
     "issues": {
       "errors": [],
@@ -1522,8 +1927,8 @@
   {
     "url": "https://www.tenupsoft.com/blog/strategies-for-tenant-data-isolation-in-multi-tenant-based-saas-applications.html",
     "status": 200,
-    "wordCount": 1481,
-    "internalLinks": 72,
+    "wordCount": 1493,
+    "internalLinks": 76,
     "externalLinks": 9,
     "issues": {
       "errors": [],
@@ -1549,7 +1954,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/the-essential-guide-to-microservices-design-patterns.html",
     "status": 200,
-    "wordCount": 2850,
+    "wordCount": 2856,
     "internalLinks": 84,
     "externalLinks": 9,
     "issues": {
@@ -1576,7 +1981,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/the-importance-of-federated-identity-management-in-a-hyper-connected-world.html",
     "status": 200,
-    "wordCount": 1723,
+    "wordCount": 1729,
     "internalLinks": 72,
     "externalLinks": 9,
     "issues": {
@@ -1603,7 +2008,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/enterprise-seller-portal.html",
     "status": 200,
-    "wordCount": 1170,
+    "wordCount": 1176,
     "internalLinks": 71,
     "externalLinks": 6,
     "issues": {
@@ -1630,7 +2035,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/building-new-cloud-native-app.html",
     "status": 200,
-    "wordCount": 1541,
+    "wordCount": 1547,
     "internalLinks": 71,
     "externalLinks": 6,
     "issues": {
@@ -1657,7 +2062,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/supercloud-vs-multicloud-vs-hybrid-cloud-for-cloud-strategy.html",
     "status": 200,
-    "wordCount": 2778,
+    "wordCount": 2784,
     "internalLinks": 85,
     "externalLinks": 12,
     "issues": {
@@ -1684,7 +2089,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/cloud-consulting-services-strategy.html",
     "status": 200,
-    "wordCount": 2561,
+    "wordCount": 2567,
     "internalLinks": 86,
     "externalLinks": 12,
     "issues": {
@@ -1711,7 +2116,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/how-to-design-a-scalable-cloud-application-architecture.html",
     "status": 200,
-    "wordCount": 2473,
+    "wordCount": 2479,
     "internalLinks": 84,
     "externalLinks": 11,
     "issues": {
@@ -1765,7 +2170,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/guide-to-build-scalable-cloud-based-apps.html",
     "status": 200,
-    "wordCount": 2602,
+    "wordCount": 2608,
     "internalLinks": 79,
     "externalLinks": 16,
     "issues": {
@@ -1792,7 +2197,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/synergizing-analytics-and-data-engineering.html",
     "status": 200,
-    "wordCount": 1267,
+    "wordCount": 1273,
     "internalLinks": 71,
     "externalLinks": 6,
     "issues": {
@@ -1819,7 +2224,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/telecom-data-analytics-a-game-changer-for-multi-channel-sales.html",
     "status": 200,
-    "wordCount": 1245,
+    "wordCount": 1251,
     "internalLinks": 70,
     "externalLinks": 6,
     "issues": {
@@ -1846,7 +2251,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/data-integration-benifits-challenges-with-solution.html",
     "status": 200,
-    "wordCount": 2670,
+    "wordCount": 2676,
     "internalLinks": 74,
     "externalLinks": 10,
     "issues": {
@@ -1873,7 +2278,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/challenges-in-managing-daily-data-ingestion-and-transfers-across-system-landscapes.html",
     "status": 200,
-    "wordCount": 1252,
+    "wordCount": 1258,
     "internalLinks": 81,
     "externalLinks": 9,
     "issues": {
@@ -1900,7 +2305,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/benefits-of-cloud-data-engineering-tools-for-scalable-data-processing.html",
     "status": 200,
-    "wordCount": 1503,
+    "wordCount": 1505,
     "internalLinks": 73,
     "externalLinks": 9,
     "issues": {
@@ -1927,7 +2332,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/exploring-the-key-features-of-apache-airflow-for-efficient-data-pipeline-management.html",
     "status": 200,
-    "wordCount": 1427,
+    "wordCount": 1429,
     "internalLinks": 76,
     "externalLinks": 9,
     "issues": {
@@ -1954,7 +2359,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/how-data-ingestion-unlocks-the-wisdom-within-data.html",
     "status": 200,
-    "wordCount": 1935,
+    "wordCount": 1941,
     "internalLinks": 74,
     "externalLinks": 9,
     "issues": {
@@ -1981,7 +2386,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/boost-devOps-performance-and-customer-satisfaction-with-reliability-engineering.html",
     "status": 200,
-    "wordCount": 1441,
+    "wordCount": 1447,
     "internalLinks": 73,
     "externalLinks": 10,
     "issues": {
@@ -2008,7 +2413,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/application-deployment-strategies-blue-green-canary-deployments-more.html",
     "status": 200,
-    "wordCount": 1579,
+    "wordCount": 1581,
     "internalLinks": 71,
     "externalLinks": 9,
     "issues": {
@@ -2035,7 +2440,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/how-infrastructure-as-code-helps-business-scale-their-operations.html",
     "status": 200,
-    "wordCount": 2871,
+    "wordCount": 2873,
     "internalLinks": 73,
     "externalLinks": 12,
     "issues": {
@@ -2062,8 +2467,8 @@
   {
     "url": "https://www.tenupsoft.com/blog/proactive-measures-to-prevent-overbilling-in-cloud-based-services.html",
     "status": 200,
-    "wordCount": 1236,
-    "internalLinks": 77,
+    "wordCount": 1244,
+    "internalLinks": 79,
     "externalLinks": 9,
     "issues": {
       "errors": [],
@@ -2089,7 +2494,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/using-feature-flags-technique-to-deliver.html",
     "status": 200,
-    "wordCount": 1629,
+    "wordCount": 1635,
     "internalLinks": 71,
     "externalLinks": 10,
     "issues": {
@@ -2114,441 +2519,9 @@
     }
   },
   {
-    "url": "https://www.tenupsoft.com/blog/ethereum-101-framework-use-cases-and-application.html",
-    "status": 200,
-    "wordCount": 1389,
-    "internalLinks": 70,
-    "externalLinks": 10,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/ethereum-101-framework-use-cases-and-application.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/what-is-web3-and-how-will-it-change-the-course-of-the-internet.html",
-    "status": 200,
-    "wordCount": 1314,
-    "internalLinks": 70,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/what-is-web3-and-how-will-it-change-the-course-of-the-internet.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/building-decentralized-applications.html",
-    "status": 200,
-    "wordCount": 1663,
-    "internalLinks": 71,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/building-decentralized-applications.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/The-importance-of-cqrs-and-saga-in-microservices-architecture.html",
-    "status": 200,
-    "wordCount": 2680,
-    "internalLinks": 79,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/The-importance-of-cqrs-and-saga-in-microservices-architecture.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/micro-frontends-for-enterprise-applications.html",
-    "status": 200,
-    "wordCount": 1394,
-    "internalLinks": 70,
-    "externalLinks": 10,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/micro-frontends-for-enterprise-applications.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/ai-agent-development-services.html",
-    "status": 200,
-    "wordCount": 2946,
-    "internalLinks": 83,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/ai-agent-development-services.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/computer-vision-solutions.html",
-    "status": 200,
-    "wordCount": 2885,
-    "internalLinks": 86,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/computer-vision-solutions.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/case-studies/background-removal-and-replacement-using-vision-ai-and-vision-engineering.html",
-    "status": 200,
-    "wordCount": 1245,
-    "internalLinks": 71,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/case-studies/background-removal-and-replacement-using-vision-ai-and-vision-engineering.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/case-studies/ai-purchase-order-automation-software-for-streamlined-processing-and-enhanced-efficiency.html",
-    "status": 200,
-    "wordCount": 1082,
-    "internalLinks": 71,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/case-studies/ai-purchase-order-automation-software-for-streamlined-processing-and-enhanced-efficiency.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/case-studies/ai-in-recruitment-optimizing-candidate-search-with-rag-chatbot.html",
-    "status": 200,
-    "wordCount": 1112,
-    "internalLinks": 71,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/case-studies/ai-in-recruitment-optimizing-candidate-search-with-rag-chatbot.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/case-studies/ai-powered-content-generation-and-item-condition-reporting-for-premium-moves.html",
-    "status": 200,
-    "wordCount": 1173,
-    "internalLinks": 71,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/case-studies/ai-powered-content-generation-and-item-condition-reporting-for-premium-moves.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/case-studies/automating-bank-check-verification-with-vision-ai-and-generative-ai.html",
-    "status": 200,
-    "wordCount": 1372,
-    "internalLinks": 71,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/case-studies/automating-bank-check-verification-with-vision-ai-and-generative-ai.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/guide-on-custom-ai-software-development.html",
-    "status": 200,
-    "wordCount": 2644,
-    "internalLinks": 92,
-    "externalLinks": 10,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/guide-on-custom-ai-software-development.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/agentic-workflows-in-ai-guide-for-enterprises.html",
-    "status": 200,
-    "wordCount": 3522,
-    "internalLinks": 86,
-    "externalLinks": 10,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/agentic-workflows-in-ai-guide-for-enterprises.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/how-ai-consulting-helps-small-businesses-and-startups.html",
-    "status": 200,
-    "wordCount": 2817,
-    "internalLinks": 87,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/how-ai-consulting-helps-small-businesses-and-startups.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/mlops-ML-experiment-tracking-essential-for-building-robust-ML-solutions.html",
-    "status": 200,
-    "wordCount": 1906,
-    "internalLinks": 76,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/mlops-ML-experiment-tracking-essential-for-building-robust-ML-solutions.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
     "url": "https://www.tenupsoft.com/case-studies/ai-watchlist-screening-software-for-enhanced-financial-compliance.html",
     "status": 200,
-    "wordCount": 1546,
+    "wordCount": 1552,
     "internalLinks": 70,
     "externalLinks": 6,
     "issues": {
@@ -2573,36 +2546,9 @@
     }
   },
   {
-    "url": "https://www.tenupsoft.com/case-studies/ai-workflow-automation-for-continuous-model-improvement.html",
-    "status": 200,
-    "wordCount": 1331,
-    "internalLinks": 73,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/case-studies/ai-workflow-automation-for-continuous-model-improvement.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
     "url": "https://www.tenupsoft.com/case-studies/automating-quality-control-with-gen-ai.html",
     "status": 200,
-    "wordCount": 1134,
+    "wordCount": 1140,
     "internalLinks": 71,
     "externalLinks": 6,
     "issues": {
@@ -2623,13 +2569,13 @@
       },
       "final_verdict": "VALID ISSUE",
       "isFresh": true,
-      "isLikelyIndexedInSERP": false
+      "isLikelyIndexedInSERP": true
     }
   },
   {
     "url": "https://www.tenupsoft.com/case-studies/ai-driven-fish-identification-and-regulation-insights-for-smart-fishing.html",
     "status": 200,
-    "wordCount": 1155,
+    "wordCount": 1161,
     "internalLinks": 72,
     "externalLinks": 6,
     "issues": {
@@ -2656,7 +2602,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/stokk-case-study-detailed.html",
     "status": 200,
-    "wordCount": 1544,
+    "wordCount": 1550,
     "internalLinks": 73,
     "externalLinks": 6,
     "issues": {
@@ -2683,7 +2629,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/optimizing-influencer-collaboration-and-brand-marketing.html",
     "status": 200,
-    "wordCount": 1528,
+    "wordCount": 1534,
     "internalLinks": 71,
     "externalLinks": 6,
     "issues": {
@@ -2710,7 +2656,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/applying-identity-provideracross-tenup-product-suite.html",
     "status": 200,
-    "wordCount": 1565,
+    "wordCount": 1571,
     "internalLinks": 70,
     "externalLinks": 6,
     "issues": {
@@ -2737,7 +2683,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/applying-military-grade-security.html",
     "status": 200,
-    "wordCount": 1493,
+    "wordCount": 1499,
     "internalLinks": 71,
     "externalLinks": 6,
     "issues": {
@@ -2764,7 +2710,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/revolutionizing-recruitment.html",
     "status": 200,
-    "wordCount": 1593,
+    "wordCount": 1599,
     "internalLinks": 71,
     "externalLinks": 6,
     "issues": {
@@ -2791,7 +2737,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/transforming-on-premises-application-for-highavailability.html",
     "status": 200,
-    "wordCount": 1231,
+    "wordCount": 1237,
     "internalLinks": 71,
     "externalLinks": 6,
     "issues": {
@@ -2818,7 +2764,7 @@
   {
     "url": "https://www.tenupsoft.com/case-studies/future-proofing-an-established-marine-erp-through-microservice-architecture.html",
     "status": 200,
-    "wordCount": 1298,
+    "wordCount": 1304,
     "internalLinks": 71,
     "externalLinks": 6,
     "issues": {
@@ -2845,7 +2791,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/custom-enterprise-software-development-guide.html",
     "status": 200,
-    "wordCount": 4122,
+    "wordCount": 4128,
     "internalLinks": 85,
     "externalLinks": 9,
     "issues": {
@@ -2872,7 +2818,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/cloud-engineering-services-checklist.html",
     "status": 200,
-    "wordCount": 3973,
+    "wordCount": 3979,
     "internalLinks": 83,
     "externalLinks": 10,
     "issues": {
@@ -2899,7 +2845,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/ai-object-detection-for-scaling-smarter-autonomous-vehicles.html",
     "status": 200,
-    "wordCount": 3200,
+    "wordCount": 3206,
     "internalLinks": 81,
     "externalLinks": 9,
     "issues": {
@@ -2926,7 +2872,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/the-ultimate-cloud-engineering-solutions-playbook.html",
     "status": 200,
-    "wordCount": 4414,
+    "wordCount": 4420,
     "internalLinks": 85,
     "externalLinks": 13,
     "issues": {
@@ -2953,7 +2899,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/cloud-cost-monitoring-metrics-for-saas-companies.html",
     "status": 200,
-    "wordCount": 2721,
+    "wordCount": 2727,
     "internalLinks": 81,
     "externalLinks": 11,
     "issues": {
@@ -2980,7 +2926,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/vibe-coding-redefining-custom-software-development-services.html",
     "status": 200,
-    "wordCount": 4485,
+    "wordCount": 4491,
     "internalLinks": 89,
     "externalLinks": 12,
     "issues": {
@@ -3007,7 +2953,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/ai-agents-the-power-behind-automated-content-creation.html",
     "status": 200,
-    "wordCount": 1804,
+    "wordCount": 1810,
     "internalLinks": 75,
     "externalLinks": 14,
     "issues": {
@@ -3034,7 +2980,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/enterprise-cloud-based-storage-scale-data-infrastructure.html",
     "status": 200,
-    "wordCount": 3402,
+    "wordCount": 3408,
     "internalLinks": 92,
     "externalLinks": 10,
     "issues": {
@@ -3061,7 +3007,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/image-to-video-ai-enterprise-guide.html",
     "status": 200,
-    "wordCount": 3195,
+    "wordCount": 3201,
     "internalLinks": 84,
     "externalLinks": 12,
     "issues": {
@@ -3088,7 +3034,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/supercloud-implementation-services-cto-guide.html",
     "status": 200,
-    "wordCount": 2271,
+    "wordCount": 2277,
     "internalLinks": 81,
     "externalLinks": 9,
     "issues": {
@@ -3115,7 +3061,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/changing-mindsets-overcoming-cultural-barriers-to-digital-transformation.html",
     "status": 200,
-    "wordCount": 1495,
+    "wordCount": 1501,
     "internalLinks": 74,
     "externalLinks": 10,
     "issues": {
@@ -3142,7 +3088,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/ai-chatbot-development-challenges-with-solutions.html",
     "status": 200,
-    "wordCount": 3363,
+    "wordCount": 3369,
     "internalLinks": 83,
     "externalLinks": 12,
     "issues": {
@@ -3169,7 +3115,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/cto-checklist-to-choose-cloud-application-development-services.html",
     "status": 200,
-    "wordCount": 2750,
+    "wordCount": 2756,
     "internalLinks": 91,
     "externalLinks": 10,
     "issues": {
@@ -3196,7 +3142,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/guide-to-ai-chatbot-for-ecommerce-success.html",
     "status": 200,
-    "wordCount": 3102,
+    "wordCount": 3108,
     "internalLinks": 78,
     "externalLinks": 11,
     "issues": {
@@ -3223,7 +3169,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/high-performance-cloud-based-data-storage-speed-reliability.html",
     "status": 200,
-    "wordCount": 4145,
+    "wordCount": 4151,
     "internalLinks": 89,
     "externalLinks": 10,
     "issues": {
@@ -3250,7 +3196,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/ai-chatbot-for-customer-service-is-revolutionizing-customer-support.html",
     "status": 200,
-    "wordCount": 3009,
+    "wordCount": 3015,
     "internalLinks": 76,
     "externalLinks": 17,
     "issues": {
@@ -3277,7 +3223,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/cloud-consulting-accelerates-devops-and-software-delivery.html",
     "status": 200,
-    "wordCount": 2371,
+    "wordCount": 2377,
     "internalLinks": 81,
     "externalLinks": 9,
     "issues": {
@@ -3304,7 +3250,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/understanding-web-scraping-and-its-top-use-cases-across-industries.html",
     "status": 200,
-    "wordCount": 1509,
+    "wordCount": 1515,
     "internalLinks": 80,
     "externalLinks": 9,
     "issues": {
@@ -3331,7 +3277,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/a-complete-guide-comparing-ai-chatbots-and-ai-agents.html",
     "status": 200,
-    "wordCount": 2498,
+    "wordCount": 2504,
     "internalLinks": 83,
     "externalLinks": 9,
     "issues": {
@@ -3358,7 +3304,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/7-rs-of-cloud-migration-strategies.html",
     "status": 200,
-    "wordCount": 2626,
+    "wordCount": 2632,
     "internalLinks": 78,
     "externalLinks": 12,
     "issues": {
@@ -3385,7 +3331,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/agentic-ai-in-customer-experience.html",
     "status": 200,
-    "wordCount": 2160,
+    "wordCount": 2166,
     "internalLinks": 79,
     "externalLinks": 11,
     "issues": {
@@ -3412,7 +3358,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/how-automation-helps-with-cloud-cost-optimization.html",
     "status": 200,
-    "wordCount": 2683,
+    "wordCount": 2689,
     "internalLinks": 84,
     "externalLinks": 9,
     "issues": {
@@ -3437,9 +3383,36 @@
     }
   },
   {
+    "url": "https://www.tenupsoft.com/blog/The-importance-of-cqrs-and-saga-in-microservices-architecture.html",
+    "status": 200,
+    "wordCount": 2686,
+    "internalLinks": 79,
+    "externalLinks": 9,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/blog/The-importance-of-cqrs-and-saga-in-microservices-architecture.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": false
+    }
+  },
+  {
     "url": "https://www.tenupsoft.com/blog/simplify-cloud-cost-management-tools-for-better-control.html",
     "status": 200,
-    "wordCount": 3016,
+    "wordCount": 3022,
     "internalLinks": 78,
     "externalLinks": 12,
     "issues": {
@@ -3466,7 +3439,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/vision-led-farming-ai-object-detection-for-pest-control.html",
     "status": 200,
-    "wordCount": 2580,
+    "wordCount": 2586,
     "internalLinks": 78,
     "externalLinks": 12,
     "issues": {
@@ -3493,7 +3466,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/cloud-deployment-models-public-private-hybrid-multi-cloud.html",
     "status": 200,
-    "wordCount": 2482,
+    "wordCount": 2488,
     "internalLinks": 80,
     "externalLinks": 11,
     "issues": {
@@ -3520,7 +3493,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/ai-chatbots-vs-human-agents-banking-service.html",
     "status": 200,
-    "wordCount": 2630,
+    "wordCount": 2636,
     "internalLinks": 83,
     "externalLinks": 14,
     "issues": {
@@ -3547,7 +3520,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/cloud-application-development-with-microservices-guide.html",
     "status": 200,
-    "wordCount": 3091,
+    "wordCount": 3097,
     "internalLinks": 85,
     "externalLinks": 10,
     "issues": {
@@ -3574,7 +3547,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/how-to-use-ai-sentiment-analysis-to-achieve-business-success.html",
     "status": 200,
-    "wordCount": 2027,
+    "wordCount": 2033,
     "internalLinks": 73,
     "externalLinks": 9,
     "issues": {
@@ -3595,13 +3568,13 @@
       },
       "final_verdict": "VALID ISSUE",
       "isFresh": true,
-      "isLikelyIndexedInSERP": false
+      "isLikelyIndexedInSERP": true
     }
   },
   {
     "url": "https://www.tenupsoft.com/blog/cloud-integration-beginners-guide-to-cloud-connectivity.html",
     "status": 200,
-    "wordCount": 3114,
+    "wordCount": 3120,
     "internalLinks": 92,
     "externalLinks": 14,
     "issues": {
@@ -3628,7 +3601,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/ai-software-development-transforms-warehouse-management.html",
     "status": 200,
-    "wordCount": 1987,
+    "wordCount": 1993,
     "internalLinks": 84,
     "externalLinks": 9,
     "issues": {
@@ -3655,7 +3628,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/ai-web-scraper-helps-ecommerce-companies-track-competitors.html",
     "status": 200,
-    "wordCount": 3123,
+    "wordCount": 3129,
     "internalLinks": 78,
     "externalLinks": 9,
     "issues": {
@@ -3682,7 +3655,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/cloud-migration-strategy-compliance-secrets.html",
     "status": 200,
-    "wordCount": 2715,
+    "wordCount": 2721,
     "internalLinks": 80,
     "externalLinks": 12,
     "issues": {
@@ -3709,7 +3682,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/ai-web-scraping-techniques-for-lead-generation.html",
     "status": 200,
-    "wordCount": 2219,
+    "wordCount": 2225,
     "internalLinks": 75,
     "externalLinks": 9,
     "issues": {
@@ -3736,7 +3709,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/cloud-native-development-plan-how-to-transform-legacy-apps.html",
     "status": 200,
-    "wordCount": 2988,
+    "wordCount": 2994,
     "internalLinks": 80,
     "externalLinks": 9,
     "issues": {
@@ -3763,7 +3736,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/how-AI-powers-web-scraping-to-extract-high-quality-data-with-deeper-insights.html",
     "status": 200,
-    "wordCount": 2760,
+    "wordCount": 2766,
     "internalLinks": 82,
     "externalLinks": 11,
     "issues": {
@@ -3817,7 +3790,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/transformative-impact-of-artificial-intelligence-in-business.html",
     "status": 200,
-    "wordCount": 3782,
+    "wordCount": 3788,
     "internalLinks": 84,
     "externalLinks": 25,
     "issues": {
@@ -3844,7 +3817,7 @@
   {
     "url": "https://www.tenupsoft.com/blog/cloud-software-solutions-enhance-business-agility.html",
     "status": 200,
-    "wordCount": 2563,
+    "wordCount": 2569,
     "internalLinks": 82,
     "externalLinks": 9,
     "issues": {
@@ -3869,9 +3842,36 @@
     }
   },
   {
+    "url": "https://www.tenupsoft.com/blog/micro-frontends-for-enterprise-applications.html",
+    "status": 200,
+    "wordCount": 1398,
+    "internalLinks": 70,
+    "externalLinks": 10,
+    "issues": {
+      "errors": [],
+      "warnings": []
+    },
+    "indexingValidation": {
+      "url": "https://www.tenupsoft.com/blog/micro-frontends-for-enterprise-applications.html",
+      "issue": "None",
+      "severity": "Low",
+      "confidence_score": "50%",
+      "signals": {
+        "robots_tag": "INDEXABLE",
+        "source": "none",
+        "valid": true,
+        "confidence_score": "50%",
+        "notes": ""
+      },
+      "final_verdict": "VALID ISSUE",
+      "isFresh": true,
+      "isLikelyIndexedInSERP": false
+    }
+  },
+  {
     "url": "https://www.tenupsoft.com/blog/10-computer-vision-tools-to-build-scalable-ai-systems.html",
     "status": 200,
-    "wordCount": 3167,
+    "wordCount": 3173,
     "internalLinks": 87,
     "externalLinks": 10,
     "issues": {
@@ -3898,997 +3898,12 @@
   {
     "url": "https://www.tenupsoft.com/blog/computer-vision-solutions-for-enterprise.html",
     "status": 200,
-    "wordCount": 3403,
+    "wordCount": 3409,
     "internalLinks": 94,
     "externalLinks": 10,
     "issues": {
       "errors": [],
       "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/computer-vision-solutions-for-enterprise.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/guide-to-cloud-cost-optimization.html",
-    "status": 200,
-    "wordCount": 2827,
-    "internalLinks": 82,
-    "externalLinks": 14,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/guide-to-cloud-cost-optimization.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/using-the-right-data-labeling-tools-and-approaches-for-ai-development-success.html",
-    "status": 200,
-    "wordCount": 2898,
-    "internalLinks": 80,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/using-the-right-data-labeling-tools-and-approaches-for-ai-development-success.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/ai-model-training-from-scratch-vs-transfer-learning-vs-fine-tuning.html",
-    "status": 200,
-    "wordCount": 2894,
-    "internalLinks": 83,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/ai-model-training-from-scratch-vs-transfer-learning-vs-fine-tuning.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/cloud-native-vs-cloud-based-applications.html",
-    "status": 200,
-    "wordCount": 2634,
-    "internalLinks": 83,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/cloud-native-vs-cloud-based-applications.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/how-to-build-your-own-image-recognition-software.html",
-    "status": 200,
-    "wordCount": 2625,
-    "internalLinks": 85,
-    "externalLinks": 12,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/how-to-build-your-own-image-recognition-software.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/differences-between-multi-cloud-and-hybrid-cloud.html",
-    "status": 200,
-    "wordCount": 2246,
-    "internalLinks": 80,
-    "externalLinks": 12,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/differences-between-multi-cloud-and-hybrid-cloud.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/the-importance-of-llm-evaluation-and-observability.html",
-    "status": 200,
-    "wordCount": 2135,
-    "internalLinks": 77,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/the-importance-of-llm-evaluation-and-observability.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/architectural-considerations-for-cloud-based-multi-region-saas-product.html",
-    "status": 200,
-    "wordCount": 3381,
-    "internalLinks": 83,
-    "externalLinks": 10,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/architectural-considerations-for-cloud-based-multi-region-saas-product.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/how-LLM-Fine-tuning-helps-build-custom-AI-solutions-for-businesses.html",
-    "status": 200,
-    "wordCount": 1856,
-    "internalLinks": 76,
-    "externalLinks": 10,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/how-LLM-Fine-tuning-helps-build-custom-AI-solutions-for-businesses.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/public-vs-private-cloud-deployment-how-to-choose.html",
-    "status": 200,
-    "wordCount": 2947,
-    "internalLinks": 79,
-    "externalLinks": 17,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/public-vs-private-cloud-deployment-how-to-choose.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/building-robust-ml-pipelines-focus-on-data-preprocessing-and-feature-engineering.html",
-    "status": 200,
-    "wordCount": 1578,
-    "internalLinks": 74,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/building-robust-ml-pipelines-focus-on-data-preprocessing-and-feature-engineering.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/comparing-saas-paas-iaas-cloud-based-applications.html",
-    "status": 200,
-    "wordCount": 2669,
-    "internalLinks": 76,
-    "externalLinks": 16,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/comparing-saas-paas-iaas-cloud-based-applications.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/serverless-architecture-101-harnessing-the-power-of-aws-serverless-services.html",
-    "status": 200,
-    "wordCount": 3111,
-    "internalLinks": 83,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/serverless-architecture-101-harnessing-the-power-of-aws-serverless-services.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/multi-agent-ai-overcomes-single-agent-limitations.html",
-    "status": 200,
-    "wordCount": 1979,
-    "internalLinks": 79,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/multi-agent-ai-overcomes-single-agent-limitations.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/computing-on-the-edge-why-serverless-edge-is-the-next-big-thing.html",
-    "status": 200,
-    "wordCount": 1587,
-    "internalLinks": 72,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/computing-on-the-edge-why-serverless-edge-is-the-next-big-thing.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/open-source-ll-ms-hosting-and-running-tools.html",
-    "status": 200,
-    "wordCount": 2895,
-    "internalLinks": 83,
-    "externalLinks": 11,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/open-source-ll-ms-hosting-and-running-tools.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/stable-diffusion-use-cases-benefits.html",
-    "status": 200,
-    "wordCount": 2415,
-    "internalLinks": 79,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/stable-diffusion-use-cases-benefits.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/choosing-open-source-vs-proprietary-ll-ms-for-ai.html",
-    "status": 200,
-    "wordCount": 2107,
-    "internalLinks": 83,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/choosing-open-source-vs-proprietary-ll-ms-for-ai.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/supercloud-a-paradigm-shift-in-cloud-computing.html",
-    "status": 200,
-    "wordCount": 2781,
-    "internalLinks": 80,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/supercloud-a-paradigm-shift-in-cloud-computing.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/boosting-ai-with-graph-and-vector-databases-in-rag-system.html",
-    "status": 200,
-    "wordCount": 2203,
-    "internalLinks": 76,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/boosting-ai-with-graph-and-vector-databases-in-rag-system.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/supercloud-architecture-layers-benefits-best-practices.html",
-    "status": 200,
-    "wordCount": 2769,
-    "internalLinks": 85,
-    "externalLinks": 11,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/supercloud-architecture-layers-benefits-best-practices.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/renting-gpu-for-scalable-and-cost-effective-ai-development.html",
-    "status": 200,
-    "wordCount": 1602,
-    "internalLinks": 76,
-    "externalLinks": 12,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/renting-gpu-for-scalable-and-cost-effective-ai-development.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/supercloud-for-enterprise-cuts-risk-boosts-roi-at-scale.html",
-    "status": 200,
-    "wordCount": 2438,
-    "internalLinks": 79,
-    "externalLinks": 12,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/supercloud-for-enterprise-cuts-risk-boosts-roi-at-scale.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/unlocking-llm-potential-how-rag-delivers-accurate-and-adaptable-ai.html",
-    "status": 200,
-    "wordCount": 1403,
-    "internalLinks": 73,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/unlocking-llm-potential-how-rag-delivers-accurate-and-adaptable-ai.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/aws-vs-azure-vs-gcp-cloud-app-development.html",
-    "status": 200,
-    "wordCount": 2858,
-    "internalLinks": 80,
-    "externalLinks": 14,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/aws-vs-azure-vs-gcp-cloud-app-development.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/ai-agents-for-text-to-sql-in-finance-healthcare.html",
-    "status": 200,
-    "wordCount": 2485,
-    "internalLinks": 80,
-    "externalLinks": 11,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/ai-agents-for-text-to-sql-in-finance-healthcare.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/real-world-supercloud-use-cases-to-watch.html",
-    "status": 200,
-    "wordCount": 2990,
-    "internalLinks": 81,
-    "externalLinks": 12,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/real-world-supercloud-use-cases-to-watch.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/vibe-coding-ai-assisted-coding-revolution.html",
-    "status": 200,
-    "wordCount": 3721,
-    "internalLinks": 78,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/vibe-coding-ai-assisted-coding-revolution.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/why-enterprises-choose-cloud-integration-services.html",
-    "status": 200,
-    "wordCount": 3241,
-    "internalLinks": 88,
-    "externalLinks": 14,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/why-enterprises-choose-cloud-integration-services.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": true
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/clutch-spotlights-tenup-software-services-as-indias-top-it-services-provider-for-2022.html",
-    "status": 200,
-    "wordCount": 586,
-    "internalLinks": 72,
-    "externalLinks": 7,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/clutch-spotlights-tenup-software-services-as-indias-top-it-services-provider-for-2022.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/tenUp-received-two-top-recognitions-from-clutch-in-2024.html",
-    "status": 200,
-    "wordCount": 589,
-    "internalLinks": 82,
-    "externalLinks": 9,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/tenUp-received-two-top-recognitions-from-clutch-in-2024.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/covid-19-the-change-pandemic.html",
-    "status": 200,
-    "wordCount": 625,
-    "internalLinks": 78,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/covid-19-the-change-pandemic.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/we-are-pleased-to-announce-the-launch-of-our-brand-new-website.html",
-    "status": 200,
-    "wordCount": 535,
-    "internalLinks": 76,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [],
-      "warnings": []
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/we-are-pleased-to-announce-the-launch-of-our-brand-new-website.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/thank-you.html",
-    "status": 200,
-    "wordCount": 351,
-    "internalLinks": 71,
-    "externalLinks": 6,
-    "issues": {
-      "errors": [
-        {
-          "issue": "No H1",
-          "severity": "High",
-          "weight": 7,
-          "fix": "Complete Overview of TenUp Thank You",
-          "recommendation": "Check tags"
-        }
-      ],
-      "warnings": [
-        {
-          "issue": "Canonical mismatch",
-          "severity": "Low",
-          "weight": 4,
-          "fix": "Update tags to follow SEO best practices.",
-          "recommendation": "Check tags"
-        }
-      ]
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/thank-you.html",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
-    }
-  },
-  {
-    "url": "https://www.tenupsoft.com/blog/aws-vs-azure-vs-gcp-cloud-app-development.html?utm_source=chatgpt.com",
-    "status": 200,
-    "wordCount": 2858,
-    "internalLinks": 80,
-    "externalLinks": 14,
-    "issues": {
-      "errors": [],
-      "warnings": [
-        {
-          "issue": "Canonical mismatch",
-          "severity": "Low",
-          "weight": 4,
-          "fix": "Update tags to follow SEO best practices.",
-          "recommendation": "Check tags"
-        }
-      ]
-    },
-    "indexingValidation": {
-      "url": "https://www.tenupsoft.com/blog/aws-vs-azure-vs-gcp-cloud-app-development.html?utm_source=chatgpt.com",
-      "issue": "None",
-      "severity": "Low",
-      "confidence_score": "50%",
-      "signals": {
-        "robots_tag": "INDEXABLE",
-        "source": "none",
-        "valid": true,
-        "confidence_score": "50%",
-        "notes": ""
-      },
-      "final_verdict": "VALID ISSUE",
-      "isFresh": true,
-      "isLikelyIndexedInSERP": false
     }
   }
 ]

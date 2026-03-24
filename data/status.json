@@ -1,1 +1,4 @@
-{"state":"completed","step":"Done","progress":100,"error":null}
+{
+  "state": "running",
+  "step": "Crawling 150/183: https://www.tenupsoft.com/blog/how-to-build-your-own-image-recognition-software.html",
+  "progres
