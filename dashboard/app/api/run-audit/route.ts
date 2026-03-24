@@ -57,7 +57,11 @@ export async function POST(req: Request) {
 
     return NextResponse.json({ success: true, message: 'Audit started in background' });
   } catch (error: any) {
-    console.error(`[API run-audit] Catch Error: ${error}`);
+    console.error(`[API run-audit] ERROR: ${error.message || error}`);
+    console.error(`[API run-audit] scriptPath: ${scriptPath}`);
+    console.error(`[API run-audit] cleanUrl: ${cleanUrl}`);
+    if (child && child.pid) console.error(`[API run-audit] PID: ${child.pid}`);
+
     return NextResponse.json({ error: error.message || 'Internal Server Error' }, { status: 500 });
   }
 }
